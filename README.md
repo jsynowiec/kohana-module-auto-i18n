@@ -15,7 +15,7 @@ to _Kohana::modules_ call in your bootstrap.
 
 Remember to move all I18n calls in your bootstrap **under** modules registration.
 
-This module isn't ment to be used in production enviroment. Use it in development stage to prepare all needed translations and then turn it off by commenting it in _Kohana::modules_ or by setting _auto-i18n.active_ to false.
+This module isn't meant to be used in production enviroment. Use it in development stage to prepare all needed translations and then turn it off by commenting it in _Kohana::modules_ or by setting _auto-i18n.active_ to false.
 
 # Credits #
 
